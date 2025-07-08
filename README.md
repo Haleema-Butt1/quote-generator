@@ -1,3 +1,10 @@
+# Quote Generator
+
+A simple motivational quote generator built with Next.js and TailwindCSS.
+
+🔗 Live Demo at Vercel: https://quote-lweh7r0c6-haleemas-projects-cfa9aef2.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
